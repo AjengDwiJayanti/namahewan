@@ -1,2 +1,3 @@
 nama hewan
-- buaya
+- buaya jantan
+
